@@ -1,0 +1,4 @@
+******************
+CROSS VALIDATION
+AVERAGE PERCENTAGE OVER 10 RUNS: 0.7466666666666667
+******************
